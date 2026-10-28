@@ -1,0 +1,95 @@
+// =====================================================================================
+//  Hearthline: all DAX measures in one script
+//  HOW TO USE (Power BI Desktop): open DAX query view (left bar, 4th icon) → paste this
+//  whole file → Run. Above the DEFINE block click "Update model with changes" to add
+//  every measure to the model at once. Then set format strings (see the guide).
+//  Table names assume you renamed the SQL tables to fact_sales, dim_date, etc.
+// =====================================================================================
+DEFINE
+    // ---------- core sales --------------------------------------------------------
+    MEASURE fact_sales[Net Sales] =
+        SUM ( fact_sales[net_sales] )                         // after discounts, before refunds
+
+    MEASURE fact_sales[Refunds] =
+        SUM ( fact_returns[refund_amount] )
+
+    MEASURE fact_sales[Net Revenue] =
+        [Net Sales] - [Refunds]
+
+    MEASURE fact_sales[Gross Margin] =
+        [Net Sales] - SUM ( fact_sales[cost_of_goods] )
+
+    MEASURE fact_sales[Gross Margin %] =
+        DIVIDE ( [Gross Margin], [Net Sales] )
+
+    MEASURE fact_sales[Orders] =
+        DISTINCTCOUNT ( fact_sales[order_id] )
+
+    MEASURE fact_sales[Avg Order Value] =
+        DIVIDE ( [Net Sales], [Orders] )
+
+    MEASURE fact_sales[Customers] =
+        CALCULATE ( DISTINCTCOUNT ( fact_sales[customer_id] ), fact_sales[customer_id] <> "GUEST" )
+
+    MEASURE fact_sales[Return Rate %] =
+        DIVIDE ( [Refunds], [Net Sales] )
+
+    // ---------- channel ------------------------------------------------------------
+    MEASURE fact_sales[Online Sales] =
+        CALCULATE ( [Net Sales], fact_sales[channel] = "Online" )
+
+    MEASURE fact_sales[Online Share %] =
+        DIVIDE ( [Online Sales], [Net Sales] )
+
+    // ---------- time intelligence (needs dim_date marked as the date table) ------
+    MEASURE fact_sales[Net Sales LY] =
+        CALCULATE ( [Net Sales], SAMEPERIODLASTYEAR ( dim_date[date] ) )
+
+    MEASURE fact_sales[YoY Growth %] =
+        DIVIDE ( [Net Sales] - [Net Sales LY], [Net Sales LY] )
+
+    MEASURE fact_sales[Net Sales YTD] =
+        TOTALYTD ( [Net Sales], dim_date[date] )
+
+    MEASURE fact_sales[Net Sales 3M Avg] =                 // average monthly sales over the last 3 months
+        DIVIDE (
+            CALCULATE ( [Net Sales], DATESINPERIOD ( dim_date[date], MAX ( dim_date[date] ), -3, MONTH ) ),
+            3
+        )
+
+    // ---------- ranking -------------------------------------------------------------
+    MEASURE fact_sales[Store Rank] =
+        IF (
+            HASONEVALUE ( dim_store[store_name] ),
+            RANKX ( ALLSELECTED ( dim_store[store_name] ), [Net Sales], , DESC, DENSE )
+        )
+
+    // ---------- real-data comparison: store vs size of its city's market ---------------
+    //  share of company STORE sales  ÷  city's share of spending power (official statistics)
+    MEASURE fact_sales[Market Capture Index] =
+        VAR StoreSales      = CALCULATE ( [Net Sales], fact_sales[channel] = "Store" )
+        VAR AllStoreSales   = CALCULATE ( [Net Sales], fact_sales[channel] = "Store", ALL ( dim_store ), ALL ( dim_city ) )
+        // TREATAS makes this work whether the visual is split by dim_store or by dim_city
+        VAR CitySpend       = CALCULATE ( SUM ( dim_city[spending_power_gbp_m] ), TREATAS ( VALUES ( dim_store[city] ), dim_city[city] ) )
+        VAR AllCitySpend    = CALCULATE ( SUM ( dim_city[spending_power_gbp_m] ), ALL ( dim_city ) )
+        RETURN
+            DIVIDE ( DIVIDE ( StoreSales, AllStoreSales ), DIVIDE ( CitySpend, AllCitySpend ) )
+
+    MEASURE fact_sales[Sales per £m Spending Power] =
+        DIVIDE (
+            CALCULATE ( [Net Sales], fact_sales[channel] = "Store" ),
+            CALCULATE ( SUM ( dim_city[spending_power_gbp_m] ), TREATAS ( VALUES ( dim_store[city] ), dim_city[city] ) )
+        )
+
+// Quick check: one row per year. If the numbers appear, the measures work.
+EVALUATE
+SUMMARIZECOLUMNS (
+    dim_date[year],
+    "Net Sales", [Net Sales],
+    "Orders", [Orders],
+    "AOV", [Avg Order Value],
+    "Gross Margin %", [Gross Margin %],
+    "Online Share %", [Online Share %],
+    "Return Rate %", [Return Rate %]
+)
+ORDER BY dim_date[year]
