@@ -1,0 +1,13 @@
+city,area,population,councils,councils_estimated,retail_gva_estimated_pct
+London,Greater London (33 boroughs),9122909,33,0,0.0
+Birmingham,West Midlands Combined Authority,3027190,7,0,0.0
+Manchester,Greater Manchester Combined Authority,3017590,10,0,0.0
+Leeds,West Yorkshire Combined Authority,2424324,5,0,0.0
+Liverpool,Liverpool City Region Combined Authority,1610919,6,0,0.0
+Sheffield,South Yorkshire Mayoral Combined Authority,1434478,4,0,0.0
+Bristol,West of England Combined Authority,1004945,3,3,100.0
+Glasgow,Glasgow City Region,1898140,8,7,83.9
+Edinburgh,Edinburgh and South East Scotland City Region,1426250,6,0,0.0
+Cardiff,Cardiff Capital Region,1564798,10,10,100.0
+Belfast,Belfast Region City Deal,1141036,6,0,0.0
+Dublin,Dublin region (4 councils),1597700,,,100.0

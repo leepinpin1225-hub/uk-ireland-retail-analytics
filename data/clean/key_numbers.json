@@ -1,0 +1,26 @@
+{
+  "revenue_2025_ytd_m": 4.53,
+  "revenue_2026_ytd_m": 4.71,
+  "revenue_growth_2026_ytd_pct": 3.9,
+  "aov_2026": 50.48,
+  "online_share_2026_pct": 32.3,
+  "gross_margin_2026_pct": 51.4,
+  "return_rate_online_pct": 8.2,
+  "return_rate_store_pct": 2.8,
+  "london_capture_index": 0.49,
+  "london_revenue_share_pct": 20.9,
+  "london_spending_share_pct": 42.4,
+  "top_capture_city": "Belfast",
+  "top_capture_index": 2.31,
+  "champions_customer_share_pct": 25.5,
+  "champions_revenue_share_pct": 57.8,
+  "next_quarter_retention_pct": 52.3,
+  "top_pair": "Gift Set + Wrapping Kit",
+  "top_pair_lift": 21.5,
+  "online_share_latest": {
+    "Taiwan": 14.2,
+    "UK": 27.9,
+    "US": 17.1
+  },
+  "taiwan_household_goods_online_pct": 6.2
+}

@@ -1,0 +1,42 @@
+category,subcategory,item_zh,base_price_gbp,n_products,evidence,source,source_url,retrieved,note
+Candles & Fragrance,Scented Candle,香氛蠟燭,10.5,30,good,BENCHMARK (Dunelm website category-page median),https://www.dunelm.com/category/home-decor/home-fragrance | https://www.dunelm.com/category/home-decor/home-fragrance/candles?page=2,2026-10,
+Candles & Fragrance,Reed Diffuser,擴香,10,23,good,BENCHMARK (Dunelm website category-page median),https://www.dunelm.com/category/brands/wax-lyrical | https://www.dunelm.com/category/home-decor/home-fragrance,2026-10,not refills
+Candles & Fragrance,Candle Holder,燭台,17,20,good,BENCHMARK (Dunelm website category-page median),https://www.dunelm.com/category/home-decor/home-fragrance/candle-holders,2026-10,
+Candles & Fragrance,Tealight Pack,茶燭包,3,2,weak,BENCHMARK (Dunelm website category-page median),https://www.dunelm.com/category/home-decor/home-fragrance | https://www.dunelm.com/category/home-decor/home-fragrance/candles?page=2,2026-10,
+Candles & Fragrance,Wax Melts,蠟塊,2.5,20,good,BENCHMARK (Dunelm website category-page median),https://www.dunelm.com/category/home-decor/home-fragrance/all-home-fragrance?product-type=wax-melts,2026-10,
+Kitchen & Dining,Stoneware Mug,馬克杯,3.5,14,good,BENCHMARK (Dunelm website category-page median),https://www.dunelm.com/category/home-and-furniture/cook-and-dine/dining-and-tableware/mugs-and-teacups,2026-10,single mug
+Kitchen & Dining,Dinner Plate Set,餐盤組12件,35,20,good,BENCHMARK (Dunelm website category-page median),https://www.dunelm.com/category/home-and-furniture/cook-and-dine/dining-and-tableware/dinner-sets,2026-10,12-piece
+Kitchen & Dining,Linen Napkins,餐巾4入,10,8,moderate,BENCHMARK (Dunelm website category-page median),https://www.dunelm.com/category/home-and-furniture/cook-and-dine/dining-and-tableware/napkins-and-napkin-rings?colour=natural,2026-10,pack of 4
+Kitchen & Dining,Glass Tumblers,玻璃杯4入,22,6,moderate,BENCHMARK (Dunelm website category-page median),https://www.dunelm.com/refined-filter/tumbler-glasses,2026-10,set of 4
+Kitchen & Dining,Serving Board,餐板,8,1,weak,BENCHMARK (Dunelm website category-page median),https://www.dunelm.com/category/home-and-furniture/cook-and-dine/dining-and-tableware/all-dining?page=2,2026-10,
+Kitchen & Dining,Coffee Beans,咖啡豆,12,0,assumption,ASSUMPTION,,,Dunelm does not sell coffee; previous design value kept
+Bedding,Duvet Cover,被子套,22,20,good,BENCHMARK (Dunelm website category-page median),https://www.dunelm.com/category/home-and-furniture/bedding/duvet-covers?sizes=double,2026-10,double
+Bedding,Pillowcase Pair,枕頭套對,6,5,moderate,BENCHMARK (Dunelm website category-page median),https://www.dunelm.com/category/home-and-furniture/bedding/all-bedding | https://www.dunelm.com/category/home-and-furniture/bedding/brushed-cotton-bedding,2026-10,pair
+Bedding,Fitted Sheet,床包,10,10,good,BENCHMARK (Dunelm website category-page median),https://www.dunelm.com/category/home-and-furniture/bedding/all-bedding | https://www.dunelm.com/category/home-and-furniture/bedding/brushed-cotton-bedding,2026-10,double
+Bedding,Throw Blanket,毯子,15,13,good,BENCHMARK (Dunelm website category-page median),https://www.dunelm.com/category/home-and-furniture/bedding/all-bedding | https://www.dunelm.com/category/home-decor/all-home-decor,2026-10,
+Bedding,Cushion,抱枕,15,5,moderate,BENCHMARK (Dunelm website category-page median),https://www.dunelm.com/category/home-and-furniture/bedding/all-bedding | https://www.dunelm.com/category/home-decor/all-home-decor,2026-10,
+Bath,Bath Towel,浴巾,10,1,weak,BENCHMARK (Dunelm website category-page median),https://www.dunelm.com/category/home-and-furniture/bathroom/towels | https://www.dunelm.com/category/home-and-furniture/bathroom/towels?page=2,2026-10,"one listing, sold as a set of 2"
+Bath,Bath Mat,浴墊,8.5,4,moderate,BENCHMARK (Dunelm website category-page median),https://www.dunelm.com/category/home-and-furniture/bathroom/all-bathroom,2026-10,
+Bath,Hand Towel,手巾,5,5,moderate,BENCHMARK (Dunelm website category-page median),https://www.dunelm.com/category/home-and-furniture/bathroom/towels | https://www.dunelm.com/category/home-and-furniture/bathroom/towels?page=2,2026-10,
+Bath,Soap Dispenser,給皂機,6,3,moderate,BENCHMARK (Dunelm website category-page median),https://www.dunelm.com/category/home-and-furniture/bathroom/all-bathroom,2026-10,
+Bath,Bath Robe,浴袍,60,1,weak,BENCHMARK (Dunelm website category-page median),https://www.dunelm.com/category/home-and-furniture/bathroom/all-bathroom,2026-10,
+Lighting,Table Lamp,檯燈,28,20,good,BENCHMARK (Dunelm website category-page median),https://www.dunelm.com/category/lighting/table-and-desk-lamps,2026-10,
+Lighting,Lamp Shade,燈罩,17,20,good,BENCHMARK (Dunelm website category-page median),https://www.dunelm.com/category/lighting/lamp-shades,2026-10,
+Lighting,LED Bulb Pack,LED 燈泡組,9,0,assumption,ASSUMPTION,https://www.dunelm.com/category/lighting/all-lighting,,not found on Dunelm; previous design value kept
+Lighting,Fairy Lights,串燈,9,20,good,BENCHMARK (Dunelm website category-page median),https://www.dunelm.com/category/lighting/string-lights,2026-10,
+Lighting,Floor Lamp,落地燈,85,5,moderate,BENCHMARK (Dunelm website category-page median),https://www.dunelm.com/category/lighting/all-lighting,2026-10,
+Home Decor,Picture Frame,相框,6.2,20,good,BENCHMARK (Dunelm website category-page median),https://www.dunelm.com/category/home-decor/wall-art-and-decor/photo-frames,2026-10,
+Home Decor,Vase,花瓶,30,3,moderate,BENCHMARK (Dunelm website category-page median),https://www.dunelm.com/category/home-decor/all-home-decor,2026-10,
+Home Decor,Wall Mirror,壁鏡,41,2,weak,BENCHMARK (Dunelm website category-page median),https://www.dunelm.com/category/home-decor/all-home-decor,2026-10,
+Home Decor,Faux Plant,仿真植物,24,34,good,BENCHMARK (Dunelm website category-page median),https://www.dunelm.com/category/home-decor/flowers-and-plants/artificial-flowers-and-plants,2026-10,"potted, not stems"
+Home Decor,Storage Basket,收納籃,12,1,weak,BENCHMARK (Dunelm website category-page median),https://www.dunelm.com/category/home-decor/all-home-decor,2026-10,
+Garden & Outdoor,Plant Pot,花盆,30,8,moderate,BENCHMARK (Dunelm website category-page median),https://www.dunelm.com/category/garden/gardening-and-garden-tools | https://www.dunelm.com/category/garden/all-garden?page=3,2026-10,
+Garden & Outdoor,Outdoor Cushion,戶外坐墊,50,2,weak,BENCHMARK (Dunelm website category-page median),https://www.dunelm.com/category/garden/all-garden?page=3,2026-10,
+Garden & Outdoor,Solar Lantern,太陽能燈籠,19,1,weak,BENCHMARK (Dunelm website category-page median),https://www.dunelm.com/product/fallen-fruits-round-sashiko-solar-lantern-1000246517 | https://www.dunelm.com/category/lighting/outdoor-lighting?page=2,2026-10,
+Garden & Outdoor,Watering Can,澆水壺,8,5,moderate,BENCHMARK (Dunelm website category-page median),https://www.dunelm.com/category/garden/gardening-and-garden-tools,2026-10,
+Garden & Outdoor,Garden Gloves,園藝手套,8,5,moderate,BENCHMARK (Dunelm website category-page median),https://www.dunelm.com/category/garden/gardening-and-garden-tools,2026-10,
+Gifts & Seasonal,Gift Set,禮品組,14,3,moderate,BENCHMARK (Dunelm website category-page median),https://www.dunelm.com/category/christmas/christmas-decorations/christmas-candles-and-home-fragrance,2026-10,candle/fragrance gift sets
+Gifts & Seasonal,Advent Candle,降臨節蠟燭,16,0,assumption,ASSUMPTION,https://www.dunelm.com/category/christmas/christmas-decorations/christmas-candles-and-home-fragrance,,not found on Dunelm; previous design value kept
+Gifts & Seasonal,Christmas Bauble Set,聖誕球組,7,6,moderate,BENCHMARK (Dunelm website category-page median),https://www.dunelm.com/category/christmas/christmas-decorations/christmas-baubles-and-tree-decorations,2026-10,
+Gifts & Seasonal,Greeting Card Pack,賀卡組,12,4,moderate,BENCHMARK (Dunelm website category-page median),https://www.dunelm.com/category/gifts/greeting-cards-and-gift-wrap,2026-10,
+Gifts & Seasonal,Wrapping Kit,包裝組,6,31,weak (derived),BENCHMARK (Dunelm website category-page median),https://www.dunelm.com/category/gifts/greeting-cards-and-gift-wrap,2026-10,"DERIVED: no kits listed; wrapping-paper median £2 per item (n=31) x 3 items (paper, tags, ribbon) - the 3 is an assumption"

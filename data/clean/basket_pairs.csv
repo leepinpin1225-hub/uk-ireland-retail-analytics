@@ -1,0 +1,647 @@
+subcategory_x,subcategory_y,orders_with_both,support_pct,lift,confidence_pct
+Gift Set,Wrapping Kit,2523,0.738,21.509,36.827
+Dinner Plate Set,Linen Napkins,5393,1.577,11.852,25.761
+LED Bulb Pack,Table Lamp,7056,2.063,10.935,54.156
+Faux Plant,Plant Pot,4984,1.457,8.748,60.463
+Candle Holder,Scented Candle,12820,3.749,5.486,62.604
+Coffee Beans,Stoneware Mug,8037,2.35,5.473,46.757
+Bath Mat,Bath Towel,13631,3.986,4.726,49.174
+Duvet Cover,Pillowcase Pair,1824,0.533,4.28,49.945
+Gift Set,Greeting Card Pack,508,0.149,1.339,7.415
+Advent Candle,Gift Set,966,0.282,1.309,2.622
+Greeting Card Pack,Wrapping Kit,423,0.124,1.305,2.234
+Christmas Bauble Set,Greeting Card Pack,1137,0.332,1.299,7.194
+Christmas Bauble Set,Wrapping Kit,350,0.102,1.293,2.215
+Advent Candle,Greeting Card Pack,2625,0.768,1.286,7.124
+Advent Candle,Wrapping Kit,811,0.237,1.286,2.201
+Advent Candle,Christmas Bauble Set,2153,0.63,1.264,5.843
+Christmas Bauble Set,Gift Set,379,0.111,1.197,2.398
+Outdoor Cushion,Watering Can,452,0.132,1.134,1.372
+Garden Gloves,Solar Lantern,600,0.175,1.121,1.644
+Plant Pot,Watering Can,309,0.09,1.081,1.307
+Outdoor Cushion,Plant Pot,2456,0.718,1.079,7.456
+Garden Gloves,Watering Can,472,0.138,1.069,1.294
+Garden Gloves,Outdoor Cushion,3731,1.091,1.061,10.225
+Plant Pot,Solar Lantern,367,0.107,1.058,1.553
+Garden Gloves,Plant Pot,2648,0.774,1.05,7.257
+Outdoor Cushion,Solar Lantern,486,0.142,1.006,1.475
+Faux Plant,Outdoor Cushion,790,0.231,0.995,9.584
+Greeting Card Pack,Tealight Pack,462,0.135,0.99,2.44
+Candle Holder,Greeting Card Pack,1122,0.328,0.989,5.479
+Christmas Bauble Set,Tealight Pack,384,0.112,0.986,2.43
+Bath Robe,Storage Basket,629,0.184,0.979,3.773
+Faux Plant,Garden Gloves,860,0.251,0.978,10.433
+Greeting Card Pack,Scented Candle,2112,0.618,0.977,11.153
+Floor Lamp,Table Lamp,210,0.061,0.973,4.821
+Gift Set,Wax Melts,533,0.156,0.965,7.78
+Bath Mat,Duvet Cover,277,0.081,0.936,0.999
+Christmas Bauble Set,Scented Candle,1680,0.491,0.931,10.63
+Candle Holder,Gift Set,382,0.112,0.931,1.865
+Dinner Plate Set,Reed Diffuser,213,0.062,0.931,1.017
+Soap Dispenser,Throw Blanket,280,0.082,0.93,8.503
+Christmas Bauble Set,Wax Melts,1185,0.347,0.93,7.498
+Candle Holder,Christmas Bauble Set,877,0.256,0.927,4.283
+Candle Holder,Linen Napkins,412,0.12,0.926,2.012
+Candle Holder,Wrapping Kit,323,0.094,0.921,1.577
+Faux Plant,Storage Basket,292,0.085,0.919,3.542
+Picture Frame,Tealight Pack,200,0.058,0.917,2.261
+Advent Candle,Reed Diffuser,369,0.108,0.916,1.001
+Bath Mat,Lamp Shade,306,0.089,0.916,1.104
+Fitted Sheet,Throw Blanket,910,0.266,0.916,8.371
+Advent Candle,Wax Melts,2721,0.796,0.916,7.385
+Advent Candle,Candle Holder,2020,0.591,0.915,5.482
+LED Bulb Pack,Plant Pot,821,0.24,0.912,6.301
+Advent Candle,Scented Candle,3832,1.121,0.911,10.4
+Solar Lantern,Table Lamp,226,0.066,0.91,4.505
+Glass Tumblers,Serving Board,361,0.106,0.909,8.429
+Glass Tumblers,Pillowcase Pair,454,0.133,0.908,10.6
+Coffee Beans,Faux Plant,376,0.11,0.907,2.187
+Garden Gloves,Picture Frame,856,0.25,0.907,2.346
+Reed Diffuser,Scented Candle,387,0.113,0.907,10.35
+Advent Candle,Tealight Pack,823,0.241,0.906,2.234
+Fitted Sheet,Wax Melts,792,0.232,0.903,7.285
+Duvet Cover,Wax Melts,266,0.078,0.903,7.284
+Greeting Card Pack,Wax Melts,1379,0.403,0.903,7.282
+Glass Tumblers,Wall Mirror,409,0.12,0.902,9.549
+Dinner Plate Set,Plant Pot,1304,0.381,0.901,6.229
+Linen Napkins,Plant Pot,462,0.135,0.899,6.216
+Bath Robe,Wall Mirror,1587,0.464,0.899,9.519
+Lamp Shade,Wall Mirror,392,0.115,0.898,9.51
+Scented Candle,Wrapping Kit,599,0.175,0.896,1.535
+Cushion,Pillowcase Pair,1519,0.444,0.896,10.452
+Hand Towel,Picture Frame,637,0.186,0.895,2.316
+Cushion,Linen Napkins,282,0.082,0.893,1.94
+Outdoor Cushion,Soap Dispenser,283,0.083,0.892,0.859
+Candle Holder,Lamp Shade,220,0.064,0.891,1.074
+Wall Mirror,Watering Can,390,0.114,0.89,1.077
+Duvet Cover,Wall Mirror,344,0.101,0.889,9.419
+Lamp Shade,Plant Pot,253,0.074,0.888,6.138
+Gift Set,Scented Candle,694,0.203,0.888,10.13
+Candle Holder,Cushion,772,0.226,0.887,3.77
+Bath Mat,Fitted Sheet,781,0.228,0.886,2.817
+Faux Plant,LED Bulb Pack,278,0.081,0.885,3.373
+Floor Lamp,Plant Pot,266,0.078,0.884,6.107
+Cushion,Dinner Plate Set,786,0.23,0.883,5.408
+Bath Robe,Faux Plant,355,0.104,0.883,2.129
+Fitted Sheet,Picture Frame,248,0.073,0.882,2.281
+Glass Tumblers,Plant Pot,261,0.076,0.882,6.094
+Duvet Cover,Hand Towel,259,0.076,0.882,7.092
+Soap Dispenser,Wax Melts,234,0.068,0.881,7.106
+Christmas Bauble Set,LED Bulb Pack,530,0.155,0.88,3.354
+Bath Mat,Plant Pot,1686,0.493,0.88,6.082
+Glass Tumblers,Wax Melts,304,0.089,0.88,7.098
+Garden Gloves,Lamp Shade,387,0.113,0.88,1.061
+Bath Towel,Glass Tumblers,392,0.115,0.88,1.102
+Hand Towel,Plant Pot,1672,0.489,0.879,6.078
+Dinner Plate Set,Garden Gloves,1960,0.573,0.877,9.362
+Coffee Beans,Pillowcase Pair,1758,0.514,0.876,10.227
+Fitted Sheet,Scented Candle,1087,0.318,0.876,9.999
+Bath Mat,Dinner Plate Set,1486,0.435,0.876,5.361
+Scented Candle,Wax Melts,2754,0.805,0.875,7.057
+Candle Holder,Wax Melts,1445,0.423,0.875,7.056
+Floor Lamp,Outdoor Cushion,367,0.107,0.875,8.425
+Cushion,Fitted Sheet,404,0.118,0.874,2.78
+Picture Frame,Storage Basket,298,0.087,0.874,3.369
+Plant Pot,Vase,2214,0.647,0.874,9.367
+Soap Dispenser,Stoneware Mug,246,0.072,0.874,7.47
+Fairy Lights,Linen Napkins,1215,0.355,0.874,1.9
+Faux Plant,Fitted Sheet,229,0.067,0.874,2.778
+Bath Robe,Tealight Pack,359,0.105,0.873,2.153
+Cushion,Throw Blanket,1160,0.339,0.873,7.982
+Pillowcase Pair,Wax Melts,2810,0.822,0.873,7.041
+Dinner Plate Set,Watering Can,221,0.065,0.873,1.056
+Coffee Beans,Throw Blanket,1371,0.401,0.873,7.976
+Picture Frame,Throw Blanket,705,0.206,0.872,7.971
+Faux Plant,Hand Towel,578,0.169,0.872,7.012
+Cushion,Scented Candle,1444,0.422,0.871,9.936
+Dinner Plate Set,Stoneware Mug,1554,0.454,0.869,7.423
+Fairy Lights,Watering Can,672,0.197,0.869,1.051
+Tealight Pack,Throw Blanket,669,0.196,0.868,7.935
+Pillowcase Pair,Watering Can,419,0.123,0.868,1.05
+Coffee Beans,Greeting Card Pack,826,0.242,0.868,4.805
+Bath Mat,LED Bulb Pack,916,0.268,0.867,3.304
+Picture Frame,Stoneware Mug,655,0.192,0.867,7.405
+Serving Board,Storage Basket,1059,0.31,0.866,3.338
+Lamp Shade,Stoneware Mug,305,0.089,0.866,7.399
+Dinner Plate Set,Glass Tumblers,227,0.066,0.866,1.084
+Pillowcase Pair,Serving Board,3205,0.937,0.866,8.031
+Fairy Lights,LED Bulb Pack,2109,0.617,0.866,3.298
+Bath Mat,Solar Lantern,352,0.103,0.866,1.27
+Bath Robe,Bath Towel,1501,0.439,0.865,9.003
+Coffee Beans,Storage Basket,573,0.168,0.865,3.334
+Bath Mat,Coffee Beans,1204,0.352,0.864,4.343
+Bath Towel,Fitted Sheet,977,0.286,0.864,2.746
+Bath Towel,Outdoor Cushion,2955,0.864,0.862,8.305
+Coffee Beans,Linen Napkins,322,0.094,0.862,1.873
+Dinner Plate Set,Outdoor Cushion,1738,0.508,0.862,8.302
+Fitted Sheet,Table Lamp,464,0.136,0.862,4.268
+Christmas Bauble Set,Linen Napkins,296,0.087,0.862,1.873
+Garden Gloves,Serving Board,2916,0.853,0.861,7.991
+Coffee Beans,Tealight Pack,365,0.107,0.861,2.123
+Linen Napkins,Wall Mirror,678,0.198,0.861,9.121
+Fairy Lights,Glass Tumblers,689,0.201,0.86,1.077
+Hand Towel,Outdoor Cushion,2279,0.666,0.86,8.285
+Solar Lantern,Wall Mirror,457,0.134,0.86,9.109
+Coffee Beans,LED Bulb Pack,563,0.165,0.86,3.275
+LED Bulb Pack,Serving Board,1039,0.304,0.86,7.975
+Glass Tumblers,Hand Towel,296,0.087,0.859,6.911
+Coffee Beans,Fitted Sheet,469,0.137,0.858,2.728
+Dinner Plate Set,Pillowcase Pair,2095,0.613,0.858,10.007
+Coffee Beans,Vase,1579,0.462,0.857,9.186
+Serving Board,Table Lamp,1347,0.394,0.857,4.246
+Stoneware Mug,Watering Can,303,0.089,0.857,1.037
+Garden Gloves,Table Lamp,1549,0.453,0.857,4.245
+Plant Pot,Table Lamp,1003,0.293,0.857,4.244
+Fairy Lights,Floor Lamp,698,0.204,0.857,1.091
+Cushion,Tealight Pack,307,0.09,0.857,2.112
+Dinner Plate Set,Storage Basket,691,0.202,0.857,3.301
+Pillowcase Pair,Throw Blanket,3125,0.914,0.857,7.831
+Dinner Plate Set,Fitted Sheet,570,0.167,0.856,2.723
+LED Bulb Pack,Wall Mirror,1182,0.346,0.856,9.072
+LED Bulb Pack,Throw Blanket,1020,0.298,0.856,7.829
+Bath Mat,Linen Napkins,516,0.151,0.856,1.861
+Bath Mat,Watering Can,287,0.084,0.856,1.035
+Fairy Lights,Soap Dispenser,527,0.154,0.856,0.824
+Fairy Lights,Garden Gloves,5838,1.707,0.856,9.129
+Fairy Lights,Reed Diffuser,598,0.175,0.855,0.935
+Dinner Plate Set,Floor Lamp,228,0.067,0.855,1.089
+Pillowcase Pair,Stoneware Mug,2914,0.852,0.855,7.302
+Bath Robe,Hand Towel,1146,0.335,0.854,6.874
+Dinner Plate Set,Wall Mirror,1894,0.554,0.854,9.047
+Table Lamp,Throw Blanket,1322,0.387,0.854,7.806
+Dinner Plate Set,Fairy Lights,3343,0.978,0.854,15.968
+Stoneware Mug,Wax Melts,2012,0.588,0.854,6.886
+Fairy Lights,Table Lamp,2704,0.791,0.854,4.228
+Faux Plant,Vase,753,0.22,0.853,9.135
+Garden Gloves,Vase,3333,0.975,0.853,9.134
+Pillowcase Pair,Vase,3645,1.066,0.853,9.134
+Candle Holder,Fitted Sheet,555,0.162,0.853,2.71
+Duvet Cover,Stoneware Mug,266,0.078,0.853,7.284
+Bath Mat,Hand Towel,1901,0.556,0.853,6.858
+Lamp Shade,Serving Board,326,0.095,0.852,7.909
+Bath Mat,Floor Lamp,301,0.088,0.852,1.086
+Candle Holder,LED Bulb Pack,665,0.194,0.852,3.247
+Cushion,Wax Melts,999,0.292,0.852,6.874
+Bath Robe,Coffee Beans,714,0.209,0.852,4.283
+Fairy Lights,Pillowcase Pair,6358,1.859,0.852,9.942
+Fairy Lights,Picture Frame,1409,0.412,0.852,2.203
+Plant Pot,Stoneware Mug,1720,0.503,0.852,7.277
+LED Bulb Pack,Outdoor Cushion,1069,0.313,0.852,8.205
+Cushion,Stoneware Mug,1057,0.309,0.851,7.273
+Bath Towel,Pillowcase Pair,3534,1.033,0.851,9.933
+Garden Gloves,Linen Napkins,675,0.197,0.851,1.85
+Garden Gloves,Soap Dispenser,299,0.087,0.851,0.819
+Outdoor Cushion,Storage Basket,1080,0.316,0.851,3.279
+Fairy Lights,Throw Blanket,4974,1.455,0.851,7.778
+Vase,Watering Can,377,0.11,0.851,1.029
+Picture Frame,Plant Pot,520,0.152,0.851,5.879
+Bath Towel,Solar Lantern,444,0.13,0.851,1.248
+Vase,Wall Mirror,3300,0.965,0.85,9.008
+Fairy Lights,Vase,5825,1.703,0.85,9.109
+Storage Basket,Vase,1200,0.351,0.85,9.107
+Fairy Lights,Scented Candle,6203,1.814,0.85,9.7
+Bath Towel,Dinner Plate Set,1851,0.541,0.85,5.202
+Coffee Beans,Wrapping Kit,250,0.073,0.849,1.454
+Floor Lamp,Stoneware Mug,316,0.092,0.849,7.254
+Reed Diffuser,Vase,340,0.099,0.849,9.093
+Fairy Lights,Storage Basket,2091,0.611,0.849,3.27
+Bath Mat,Table Lamp,1165,0.341,0.849,4.203
+Bath Towel,Fairy Lights,5646,1.651,0.849,15.868
+Fairy Lights,Fitted Sheet,1725,0.504,0.849,2.697
+Christmas Bauble Set,Coffee Beans,674,0.197,0.848,4.265
+LED Bulb Pack,Vase,1184,0.346,0.848,9.087
+Bath Towel,Coffee Beans,1517,0.444,0.848,4.264
+Bath Robe,Fairy Lights,2644,0.773,0.848,15.859
+Bath Mat,Picture Frame,608,0.178,0.848,2.193
+Duvet Cover,Plant Pot,214,0.063,0.848,5.86
+Pillowcase Pair,Scented Candle,3861,1.129,0.848,9.675
+Table Lamp,Vase,1538,0.45,0.848,9.081
+Fitted Sheet,Pillowcase Pair,1075,0.314,0.847,9.889
+Fitted Sheet,Stoneware Mug,787,0.23,0.847,7.239
+Coffee Beans,Serving Board,1351,0.395,0.847,7.86
+Dinner Plate Set,Vase,1900,0.556,0.847,9.076
+Gift Set,LED Bulb Pack,221,0.065,0.847,3.226
+Linen Napkins,Scented Candle,718,0.21,0.846,9.66
+Plant Pot,Wall Mirror,2118,0.619,0.846,8.961
+Bath Towel,Scented Candle,3435,1.004,0.846,9.654
+Outdoor Cushion,Table Lamp,1380,0.404,0.846,4.189
+Pillowcase Pair,Reed Diffuser,369,0.108,0.846,0.925
+Pillowcase Pair,Table Lamp,1671,0.489,0.845,4.187
+Bath Mat,Wall Mirror,2482,0.726,0.845,8.954
+Fitted Sheet,Storage Basket,354,0.104,0.845,3.256
+Serving Board,Wall Mirror,2840,0.83,0.845,8.952
+Candle Holder,Fairy Lights,3236,0.946,0.845,15.802
+Linen Napkins,Storage Basket,242,0.071,0.845,3.256
+Bath Towel,Vase,3220,0.942,0.845,9.05
+Garden Gloves,Wall Mirror,3265,0.955,0.845,8.948
+LED Bulb Pack,Storage Basket,424,0.124,0.845,3.254
+Hand Towel,Wall Mirror,2461,0.72,0.845,8.946
+Garden Gloves,Hand Towel,2479,0.725,0.845,6.794
+Hand Towel,Reed Diffuser,254,0.074,0.844,0.923
+Dinner Plate Set,Hand Towel,1422,0.416,0.844,6.792
+Floor Lamp,Vase,394,0.115,0.844,9.045
+Bath Towel,Hand Towel,2416,0.707,0.844,6.79
+Bath Towel,Lamp Shade,362,0.106,0.844,1.017
+LED Bulb Pack,Linen Napkins,239,0.07,0.844,1.834
+Fitted Sheet,Serving Board,851,0.249,0.844,7.828
+Bath Robe,Plant Pot,972,0.284,0.844,5.83
+Stoneware Mug,Vase,2640,0.772,0.843,9.036
+Cushion,Picture Frame,317,0.093,0.843,2.181
+Coffee Beans,Cushion,616,0.18,0.843,3.584
+Outdoor Cushion,Serving Board,2577,0.754,0.843,7.823
+Bath Towel,Picture Frame,776,0.227,0.843,2.181
+Pillowcase Pair,Soap Dispenser,324,0.095,0.843,0.812
+Bath Mat,Garden Gloves,2493,0.729,0.843,8.994
+Bath Mat,Throw Blanket,2135,0.624,0.843,7.702
+Fairy Lights,Hand Towel,4334,1.267,0.842,6.777
+Cushion,Greeting Card Pack,678,0.198,0.842,4.665
+Bath Towel,Duvet Cover,320,0.094,0.842,0.899
+Bath Robe,Vase,1504,0.44,0.842,9.021
+Floor Lamp,Hand Towel,295,0.086,0.842,6.772
+Hand Towel,Soap Dispenser,223,0.065,0.842,0.811
+Candle Holder,Tealight Pack,425,0.124,0.842,2.075
+Table Lamp,Wall Mirror,1510,0.442,0.842,8.916
+Outdoor Cushion,Vase,2970,0.869,0.842,9.016
+Garden Gloves,Storage Basket,1183,0.346,0.841,3.242
+Hand Towel,Lamp Shade,279,0.082,0.841,1.014
+Hand Towel,Watering Can,280,0.082,0.841,1.018
+Stoneware Mug,Storage Basket,947,0.277,0.841,3.241
+Stoneware Mug,Wall Mirror,2603,0.761,0.841,8.909
+Bath Mat,Glass Tumblers,292,0.085,0.841,1.053
+Picture Frame,Pillowcase Pair,868,0.254,0.841,9.813
+Reed Diffuser,Wall Mirror,333,0.097,0.841,8.906
+Bath Mat,Serving Board,2162,0.632,0.841,7.799
+Wax Melts,Wrapping Kit,397,0.116,0.841,1.439
+Scented Candle,Storage Basket,1264,0.37,0.841,3.239
+Faux Plant,Stoneware Mug,592,0.173,0.841,7.182
+LED Bulb Pack,Tealight Pack,270,0.079,0.841,2.072
+Duvet Cover,Fairy Lights,574,0.168,0.84,15.717
+Garden Gloves,Stoneware Mug,2620,0.766,0.84,7.18
+Coffee Beans,Wall Mirror,1530,0.447,0.84,8.901
+Fairy Lights,Wax Melts,4334,1.267,0.84,6.777
+Candle Holder,Table Lamp,852,0.249,0.84,4.161
+Gift Set,Throw Blanket,526,0.154,0.84,7.678
+Bath Mat,Outdoor Cushion,2242,0.656,0.84,8.088
+Bath Mat,Soap Dispenser,224,0.066,0.839,0.808
+Bath Robe,LED Bulb Pack,533,0.156,0.839,3.197
+Bath Towel,Garden Gloves,3185,0.931,0.839,8.952
+Fairy Lights,Plant Pot,3705,1.083,0.838,5.794
+Bath Towel,Serving Board,2767,0.809,0.838,7.777
+Bath Mat,Reed Diffuser,254,0.074,0.838,0.916
+Throw Blanket,Wax Melts,2112,0.618,0.838,6.756
+Storage Basket,Wax Melts,890,0.26,0.837,6.755
+Faux Plant,Wall Mirror,731,0.214,0.837,8.868
+Fitted Sheet,Vase,975,0.285,0.837,8.969
+Fairy Lights,Stoneware Mug,4574,1.338,0.837,7.153
+Glass Tumblers,Vase,384,0.112,0.837,8.966
+Bath Towel,Stoneware Mug,2544,0.744,0.837,7.15
+Hand Towel,LED Bulb Pack,876,0.256,0.836,3.184
+Hand Towel,Vase,2463,0.72,0.836,8.953
+Serving Board,Solar Lantern,389,0.114,0.836,1.226
+Linen Napkins,Wax Melts,501,0.147,0.836,6.74
+Bath Towel,Cushion,1263,0.369,0.835,3.55
+Coffee Beans,Plant Pot,992,0.29,0.835,5.771
+Bath Mat,Fairy Lights,4328,1.266,0.835,15.613
+Bath Robe,Picture Frame,360,0.105,0.835,2.159
+Picture Frame,Serving Board,685,0.2,0.835,7.744
+Faux Plant,Throw Blanket,629,0.184,0.835,7.631
+Fairy Lights,Wall Mirror,5654,1.653,0.835,8.841
+Serving Board,Soap Dispenser,255,0.075,0.835,0.804
+Picture Frame,Wall Mirror,782,0.229,0.835,8.841
+Storage Basket,Tealight Pack,271,0.079,0.834,2.057
+Bath Mat,Scented Candle,2639,0.772,0.834,9.52
+Bath Towel,Plant Pot,2051,0.6,0.834,5.764
+Bath Towel,Linen Napkins,645,0.189,0.834,1.813
+Bath Towel,Wax Melts,2393,0.7,0.834,6.726
+Candle Holder,Serving Board,1584,0.463,0.834,7.735
+Pillowcase Pair,Wall Mirror,3524,1.031,0.834,8.831
+Fitted Sheet,Hand Towel,729,0.213,0.834,6.706
+Solar Lantern,Vase,448,0.131,0.834,8.93
+Coffee Beans,Outdoor Cushion,1380,0.404,0.833,8.028
+Coffee Beans,Fairy Lights,2679,0.783,0.833,15.586
+Bath Towel,LED Bulb Pack,1129,0.33,0.833,3.173
+Duvet Cover,Throw Blanket,278,0.081,0.833,7.612
+Picture Frame,Wax Melts,594,0.174,0.833,6.716
+Bath Mat,Pillowcase Pair,2693,0.788,0.832,9.715
+Bath Robe,Candle Holder,831,0.243,0.832,4.984
+Fairy Lights,Faux Plant,1283,0.375,0.832,2.006
+Scented Candle,Throw Blanket,2969,0.868,0.832,7.608
+Hand Towel,Stoneware Mug,1956,0.572,0.832,7.11
+Coffee Beans,Picture Frame,370,0.108,0.832,2.153
+Fairy Lights,Serving Board,4936,1.443,0.832,7.719
+Bath Robe,Stoneware Mug,1185,0.347,0.832,7.108
+Pillowcase Pair,Storage Basket,1279,0.374,0.832,3.205
+Outdoor Cushion,Stoneware Mug,2340,0.684,0.831,7.104
+Soap Dispenser,Wall Mirror,290,0.085,0.831,8.807
+Linen Napkins,Outdoor Cushion,595,0.174,0.831,8.005
+Fairy Lights,Outdoor Cushion,5116,1.496,0.831,8.0
+Dinner Plate Set,Solar Lantern,255,0.075,0.83,1.218
+Bath Towel,Wall Mirror,3129,0.915,0.83,8.794
+Hand Towel,Pillowcase Pair,2665,0.779,0.83,9.688
+Bath Robe,Serving Board,1284,0.375,0.83,7.702
+LED Bulb Pack,Scented Candle,1234,0.361,0.83,9.471
+Bath Robe,Cushion,588,0.172,0.83,3.527
+Candle Holder,Wall Mirror,1800,0.526,0.83,8.79
+Outdoor Cushion,Picture Frame,707,0.207,0.83,2.146
+Hand Towel,Linen Napkins,496,0.145,0.83,1.803
+Bath Towel,Candle Holder,1767,0.517,0.829,4.966
+Garden Gloves,Glass Tumblers,379,0.111,0.829,1.039
+Reed Diffuser,Wax Melts,250,0.073,0.829,6.686
+Candle Holder,Picture Frame,439,0.128,0.829,2.144
+Throw Blanket,Vase,2775,0.811,0.829,8.877
+Hand Towel,Scented Candle,2601,0.761,0.829,9.455
+Duvet Cover,Vase,324,0.095,0.828,8.872
+Table Lamp,Wax Melts,1131,0.331,0.828,6.678
+Duvet Cover,Scented Candle,345,0.101,0.828,9.447
+Faux Plant,Serving Board,633,0.185,0.828,7.679
+Coffee Beans,Garden Gloves,1518,0.444,0.828,8.831
+Dinner Plate Set,Scented Candle,1977,0.578,0.828,9.444
+Dinner Plate Set,Picture Frame,448,0.131,0.827,2.14
+Serving Board,Tealight Pack,647,0.189,0.827,2.039
+Bath Robe,Pillowcase Pair,1609,0.471,0.827,9.651
+Storage Basket,Throw Blanket,996,0.291,0.827,7.559
+Serving Board,Throw Blanket,2397,0.701,0.827,7.555
+Bath Towel,Tealight Pack,725,0.212,0.826,2.038
+Serving Board,Vase,2809,0.821,0.826,8.854
+Candle Holder,Throw Blanket,1547,0.452,0.826,7.554
+Bath Robe,Garden Gloves,1470,0.43,0.826,8.817
+Bath Mat,Stoneware Mug,1957,0.572,0.826,7.06
+Cushion,Hand Towel,966,0.282,0.826,6.647
+Christmas Bauble Set,Fitted Sheet,415,0.121,0.826,2.626
+Stoneware Mug,Throw Blanket,2206,0.645,0.826,7.55
+Wall Mirror,Wax Melts,2413,0.706,0.826,6.662
+Coffee Beans,Wax Melts,1145,0.335,0.826,6.661
+Candle Holder,Pillowcase Pair,1973,0.577,0.826,9.635
+Bath Mat,Vase,2451,0.717,0.825,8.842
+Lamp Shade,Pillowcase Pair,397,0.116,0.825,9.631
+Plant Pot,Serving Board,1809,0.529,0.825,7.654
+Bath Robe,Dinner Plate Set,842,0.246,0.825,5.05
+Coffee Beans,Table Lamp,702,0.205,0.825,4.084
+Bath Towel,Throw Blanket,2682,0.784,0.825,7.538
+Cushion,Wall Mirror,1269,0.371,0.824,8.732
+Hand Towel,Table Lamp,1123,0.328,0.824,4.082
+Scented Candle,Table Lamp,1593,0.466,0.824,4.082
+Scented Candle,Tealight Pack,793,0.232,0.824,2.032
+Coffee Beans,Dinner Plate Set,867,0.254,0.824,5.044
+Floor Lamp,Throw Blanket,328,0.096,0.824,7.53
+Bath Robe,Table Lamp,680,0.199,0.824,4.079
+Linen Napkins,Stoneware Mug,523,0.153,0.824,7.036
+LED Bulb Pack,Pillowcase Pair,1252,0.366,0.823,9.609
+Throw Blanket,Wall Mirror,2726,0.797,0.823,8.72
+Tealight Pack,Vase,743,0.217,0.823,8.813
+Dinner Plate Set,LED Bulb Pack,656,0.192,0.822,3.134
+Bath Robe,Solar Lantern,201,0.059,0.822,1.206
+Dinner Plate Set,Wax Melts,1387,0.406,0.821,6.625
+Fairy Lights,Tealight Pack,1295,0.379,0.821,2.025
+Bath Mat,Christmas Bauble Set,1052,0.308,0.821,3.795
+Bath Towel,Floor Lamp,372,0.109,0.821,1.046
+Faux Plant,Table Lamp,335,0.098,0.821,4.064
+Serving Board,Stoneware Mug,2224,0.65,0.82,7.01
+Bath Towel,Watering Can,353,0.103,0.82,0.992
+Storage Basket,Table Lamp,535,0.156,0.82,4.06
+Scented Candle,Wall Mirror,3389,0.991,0.82,8.684
+Floor Lamp,Garden Gloves,381,0.111,0.82,8.747
+Scented Candle,Serving Board,2967,0.868,0.819,7.603
+Hand Towel,Throw Blanket,2060,0.602,0.819,7.488
+Bath Mat,Wax Melts,1831,0.535,0.819,6.605
+Hand Towel,Wax Melts,1817,0.531,0.819,6.605
+Bath Towel,Table Lamp,1443,0.422,0.819,4.056
+Solar Lantern,Stoneware Mug,351,0.103,0.819,6.996
+Bath Mat,Bath Robe,1106,0.323,0.818,3.99
+Bath Robe,Christmas Bauble Set,630,0.184,0.818,3.779
+Storage Basket,Wall Mirror,1141,0.334,0.818,8.66
+Bath Towel,Faux Plant,701,0.205,0.817,1.97
+Hand Towel,Storage Basket,866,0.253,0.817,3.148
+Scented Candle,Soap Dispenser,307,0.09,0.817,0.787
+Candle Holder,Dinner Plate Set,1024,0.299,0.817,5.0
+Coffee Beans,Hand Towel,1129,0.33,0.816,6.568
+Cushion,Fairy Lights,2219,0.649,0.816,15.269
+Bath Mat,Storage Basket,872,0.255,0.816,3.146
+Christmas Bauble Set,Table Lamp,639,0.187,0.816,4.043
+Hand Towel,Serving Board,2083,0.609,0.816,7.572
+Candle Holder,Hand Towel,1344,0.393,0.816,6.563
+Duvet Cover,Outdoor Cushion,287,0.084,0.816,7.859
+Fairy Lights,Solar Lantern,765,0.224,0.815,1.196
+Hand Towel,Tealight Pack,553,0.162,0.815,2.01
+Hand Towel,Wrapping Kit,384,0.112,0.815,1.396
+Dinner Plate Set,Table Lamp,845,0.247,0.815,4.036
+Bath Robe,Scented Candle,1550,0.453,0.815,9.297
+Stoneware Mug,Tealight Pack,586,0.171,0.814,2.006
+Bath Robe,Outdoor Cushion,1306,0.382,0.813,7.833
+Cushion,Vase,1266,0.37,0.813,8.711
+Dinner Plate Set,Throw Blanket,1556,0.455,0.813,7.433
+Floor Lamp,Scented Candle,404,0.118,0.813,9.275
+Pillowcase Pair,Tealight Pack,799,0.234,0.812,2.002
+Throw Blanket,Watering Can,307,0.09,0.812,0.982
+Linen Napkins,Pillowcase Pair,704,0.206,0.812,9.471
+Coffee Beans,Scented Candle,1592,0.466,0.812,9.262
+Fitted Sheet,LED Bulb Pack,336,0.098,0.811,3.091
+LED Bulb Pack,Stoneware Mug,903,0.264,0.811,6.931
+Cushion,Storage Basket,454,0.133,0.811,3.124
+Faux Plant,Wax Melts,539,0.158,0.811,6.539
+Tealight Pack,Wall Mirror,724,0.212,0.811,8.587
+Bath Towel,Christmas Bauble Set,1333,0.39,0.811,3.746
+Garden Gloves,LED Bulb Pack,1127,0.33,0.811,3.089
+Bath Robe,Throw Blanket,1235,0.361,0.81,7.408
+Stoneware Mug,Table Lamp,1172,0.343,0.81,4.011
+Advent Candle,Serving Board,2768,0.809,0.81,7.512
+Glass Tumblers,Outdoor Cushion,334,0.098,0.81,7.798
+Linen Napkins,Throw Blanket,550,0.161,0.809,7.399
+Lamp Shade,Throw Blanket,305,0.089,0.809,7.399
+Lamp Shade,Wax Melts,269,0.079,0.809,6.526
+Bath Towel,Storage Basket,1109,0.324,0.809,3.117
+LED Bulb Pack,Wax Melts,850,0.249,0.809,6.524
+Greeting Card Pack,Storage Basket,590,0.173,0.809,3.116
+Advent Candle,Fitted Sheet,947,0.277,0.808,2.57
+Picture Frame,Scented Candle,816,0.239,0.808,9.226
+Advent Candle,Pillowcase Pair,3476,1.016,0.808,9.434
+Picture Frame,Vase,766,0.224,0.808,8.66
+Cushion,Garden Gloves,1253,0.366,0.808,8.622
+Pillowcase Pair,Solar Lantern,473,0.138,0.808,1.185
+Advent Candle,Linen Napkins,647,0.189,0.808,1.756
+Fitted Sheet,Garden Gloves,937,0.274,0.808,8.619
+Gift Set,Hand Towel,445,0.13,0.807,6.495
+Garden Gloves,Throw Blanket,2693,0.788,0.807,7.38
+Tealight Pack,Wax Melts,549,0.161,0.807,6.512
+Plant Pot,Storage Basket,735,0.215,0.807,3.11
+Outdoor Cushion,Wall Mirror,2816,0.823,0.807,8.549
+Fairy Lights,Lamp Shade,622,0.182,0.807,0.973
+Floor Lamp,Serving Board,326,0.095,0.807,7.484
+Christmas Bauble Set,Stoneware Mug,1089,0.318,0.807,6.891
+Pillowcase Pair,Wrapping Kit,551,0.161,0.806,1.381
+Dinner Plate Set,Serving Board,1566,0.458,0.806,7.48
+Gift Set,Wall Mirror,585,0.171,0.806,8.539
+Advent Candle,Lamp Shade,358,0.105,0.806,0.972
+Fitted Sheet,Outdoor Cushion,844,0.247,0.806,7.764
+Candle Holder,Vase,1767,0.517,0.805,8.629
+Floor Lamp,Pillowcase Pair,409,0.12,0.805,9.389
+Bath Robe,Fitted Sheet,426,0.125,0.804,2.555
+Bath Mat,Faux Plant,537,0.157,0.804,1.937
+Candle Holder,Glass Tumblers,206,0.06,0.803,1.006
+Bath Mat,Gift Set,446,0.13,0.803,1.609
+Christmas Bauble Set,Dinner Plate Set,777,0.227,0.803,4.916
+Wall Mirror,Wrapping Kit,498,0.146,0.803,1.375
+Serving Board,Watering Can,308,0.09,0.802,0.971
+Fitted Sheet,Wall Mirror,924,0.27,0.802,8.5
+Advent Candle,Throw Blanket,2702,0.79,0.802,7.333
+Dinner Plate Set,Tealight Pack,414,0.121,0.802,1.978
+Bath Mat,Tealight Pack,548,0.16,0.802,1.977
+Scented Candle,Vase,3351,0.98,0.802,8.587
+Christmas Bauble Set,Hand Towel,1019,0.298,0.802,6.448
+Picture Frame,Table Lamp,351,0.103,0.801,3.968
+Scented Candle,Stoneware Mug,2671,0.781,0.801,6.844
+Christmas Bauble Set,Storage Basket,487,0.142,0.8,3.081
+Advent Candle,Bath Robe,1436,0.42,0.799,3.897
+Lamp Shade,Scented Candle,376,0.11,0.799,9.122
+Fairy Lights,Greeting Card Pack,2829,0.827,0.799,4.424
+Fitted Sheet,Tealight Pack,214,0.063,0.798,1.969
+Floor Lamp,Wax Melts,280,0.082,0.797,6.428
+Advent Candle,Storage Basket,1131,0.331,0.797,3.07
+Cushion,Serving Board,1074,0.314,0.797,7.39
+Cushion,Table Lamp,573,0.168,0.796,3.943
+Advent Candle,Wall Mirror,3107,0.909,0.796,8.432
+Christmas Bauble Set,Fairy Lights,2351,0.687,0.795,14.876
+Reed Diffuser,Stoneware Mug,254,0.074,0.795,6.793
+Advent Candle,Floor Lamp,373,0.109,0.795,1.012
+Plant Pot,Tealight Pack,463,0.135,0.795,1.959
+Bath Mat,Candle Holder,1318,0.385,0.794,4.755
+Cushion,Outdoor Cushion,1111,0.325,0.794,7.645
+Candle Holder,Floor Lamp,207,0.061,0.794,1.011
+Linen Napkins,Table Lamp,292,0.085,0.793,3.928
+Outdoor Cushion,Pillowcase Pair,3048,0.891,0.793,9.253
+Coffee Beans,Gift Set,273,0.08,0.793,1.588
+Greeting Card Pack,Pillowcase Pair,1751,0.512,0.792,9.246
+Gift Set,Pillowcase Pair,633,0.185,0.792,9.24
+Linen Napkins,Vase,630,0.184,0.791,8.476
+Bath Mat,Cushion,932,0.273,0.791,3.362
+Candle Holder,Storage Basket,624,0.182,0.791,3.047
+Greeting Card Pack,Stoneware Mug,1279,0.374,0.791,6.754
+Advent Candle,Fairy Lights,5444,1.592,0.79,14.775
+Gift Set,Table Lamp,268,0.078,0.79,3.912
+Glass Tumblers,Scented Candle,386,0.113,0.79,9.012
+Bath Towel,Greeting Card Pack,1556,0.455,0.79,4.373
+Christmas Bauble Set,Vase,1337,0.391,0.79,8.46
+Greeting Card Pack,Vase,1601,0.468,0.789,8.454
+Dinner Plate Set,Faux Plant,398,0.116,0.789,1.901
+Advent Candle,Hand Towel,2336,0.683,0.788,6.34
+Faux Plant,Pillowcase Pair,758,0.222,0.788,9.196
+Stoneware Mug,Wrapping Kit,394,0.115,0.788,1.349
+Bath Robe,Gift Set,263,0.077,0.787,1.577
+Garden Gloves,Pillowcase Pair,3351,0.98,0.787,9.184
+Floor Lamp,Wall Mirror,363,0.106,0.787,8.333
+Greeting Card Pack,Throw Blanket,1361,0.398,0.786,7.187
+Serving Board,Wax Melts,2011,0.588,0.786,6.339
+Greeting Card Pack,Table Lamp,737,0.216,0.786,3.892
+Christmas Bauble Set,Throw Blanket,1135,0.332,0.786,7.182
+Gift Set,Serving Board,499,0.146,0.785,7.284
+Vase,Wax Melts,2319,0.678,0.785,6.33
+Throw Blanket,Wrapping Kit,420,0.123,0.785,1.344
+Advent Candle,Dinner Plate Set,1770,0.518,0.785,4.804
+Christmas Bauble Set,Cushion,527,0.154,0.785,3.335
+Serving Board,Wrapping Kit,426,0.125,0.784,1.343
+Glass Tumblers,Throw Blanket,307,0.09,0.784,7.168
+Fitted Sheet,Greeting Card Pack,472,0.138,0.784,4.342
+Advent Candle,Coffee Beans,1452,0.425,0.784,3.941
+Bath Mat,Wrapping Kit,372,0.109,0.784,1.342
+Advent Candle,LED Bulb Pack,1099,0.321,0.783,2.983
+Candle Holder,Faux Plant,386,0.113,0.782,1.885
+Glass Tumblers,Stoneware Mug,286,0.084,0.782,6.678
+Bath Towel,Reed Diffuser,304,0.089,0.781,0.854
+Bath Robe,Linen Napkins,283,0.083,0.781,1.697
+Advent Candle,Bath Mat,2332,0.682,0.781,6.329
+Hand Towel,Solar Lantern,315,0.092,0.781,1.145
+Advent Candle,Cushion,1222,0.357,0.78,3.317
+Bath Robe,Wax Melts,1049,0.307,0.78,6.292
+Advent Candle,Bath Towel,2989,0.874,0.78,8.112
+Soap Dispenser,Vase,275,0.08,0.78,8.351
+Gift Set,Vase,571,0.167,0.778,8.335
+Candle Holder,Stoneware Mug,1361,0.398,0.778,6.646
+Advent Candle,Vase,3069,0.897,0.777,8.329
+Bath Robe,Greeting Card Pack,717,0.21,0.777,4.301
+Duvet Cover,Serving Board,263,0.077,0.776,7.202
+Greeting Card Pack,LED Bulb Pack,560,0.164,0.776,2.957
+Linen Napkins,Serving Board,535,0.156,0.776,7.198
+Advent Candle,Table Lamp,1414,0.413,0.775,3.838
+Lamp Shade,Vase,342,0.1,0.774,8.297
+Advent Candle,Stoneware Mug,2437,0.713,0.774,6.614
+Solar Lantern,Throw Blanket,355,0.104,0.774,7.076
+Lamp Shade,Outdoor Cushion,307,0.09,0.773,7.448
+Outdoor Cushion,Throw Blanket,2327,0.68,0.773,7.064
+Table Lamp,Wrapping Kit,224,0.066,0.772,1.323
+Plant Pot,Throw Blanket,1667,0.487,0.772,7.053
+Pillowcase Pair,Plant Pot,2127,0.622,0.771,5.33
+Greeting Card Pack,Wall Mirror,1546,0.452,0.771,8.164
+Bath Towel,Soap Dispenser,264,0.077,0.771,0.742
+Greeting Card Pack,Serving Board,1347,0.394,0.767,7.113
+Christmas Bauble Set,Pillowcase Pair,1413,0.413,0.766,8.941
+Cushion,LED Bulb Pack,424,0.124,0.766,2.917
+Dinner Plate Set,Gift Set,321,0.094,0.765,1.533
+Candle Holder,Coffee Beans,787,0.23,0.765,3.843
+Greeting Card Pack,Hand Towel,1164,0.34,0.764,6.147
+Fitted Sheet,Plant Pot,573,0.168,0.763,5.271
+Table Lamp,Tealight Pack,318,0.093,0.762,1.878
+Bath Mat,Greeting Card Pack,1169,0.342,0.762,4.217
+Dinner Plate Set,Greeting Card Pack,882,0.258,0.761,4.213
+Reed Diffuser,Throw Blanket,260,0.076,0.761,6.954
+Bath Towel,Wrapping Kit,463,0.135,0.76,1.301
+LED Bulb Pack,Picture Frame,256,0.075,0.76,1.965
+Bath Towel,Gift Set,540,0.158,0.758,1.518
+Gift Set,Stoneware Mug,443,0.13,0.757,6.466
+Faux Plant,Scented Candle,709,0.207,0.754,8.601
+Advent Candle,Soap Dispenser,267,0.078,0.753,0.725
+Candle Holder,Solar Lantern,226,0.066,0.752,1.104
+Garden Gloves,Tealight Pack,676,0.198,0.751,1.853
+Fairy Lights,Gift Set,961,0.281,0.75,1.503
+Bath Robe,Wrapping Kit,214,0.063,0.75,1.284
+Christmas Bauble Set,Serving Board,1098,0.321,0.749,6.948
+Cushion,Gift Set,218,0.064,0.749,1.5
+Christmas Bauble Set,Wall Mirror,1252,0.366,0.748,7.922
+Greeting Card Pack,Picture Frame,366,0.107,0.747,1.933
+Outdoor Cushion,Reed Diffuser,269,0.079,0.747,0.817
+Reed Diffuser,Serving Board,259,0.076,0.747,6.927
+Christmas Bauble Set,Picture Frame,305,0.089,0.746,1.93
+Garden Gloves,Reed Diffuser,297,0.087,0.744,0.814
+Cushion,Faux Plant,260,0.076,0.742,1.789
+Plant Pot,Wrapping Kit,299,0.087,0.739,1.265
+Outdoor Cushion,Wax Melts,1959,0.573,0.737,5.947
+Garden Gloves,Wax Melts,2168,0.634,0.737,5.942
+Advent Candle,Glass Tumblers,339,0.099,0.735,0.92
+Advent Candle,Faux Plant,652,0.191,0.734,1.77
+Plant Pot,Wax Melts,1399,0.409,0.734,5.919
+Garden Gloves,Scented Candle,3046,0.891,0.731,8.348
+Duvet Cover,Garden Gloves,285,0.083,0.731,7.804
+Plant Pot,Scented Candle,1966,0.575,0.729,8.318
+Candle Holder,Garden Gloves,1589,0.465,0.727,7.76
+Cushion,Plant Pot,728,0.213,0.725,5.009
+Outdoor Cushion,Tealight Pack,587,0.172,0.723,1.782
+Scented Candle,Watering Can,340,0.099,0.72,0.871
+Candle Holder,Plant Pot,1019,0.298,0.72,4.976
+Advent Candle,Picture Frame,686,0.201,0.72,1.862
+Scented Candle,Solar Lantern,412,0.12,0.72,1.056
+Fairy Lights,Wrapping Kit,787,0.23,0.719,1.231
+Dinner Plate Set,Wrapping Kit,257,0.075,0.717,1.228
+Vase,Wrapping Kit,449,0.131,0.716,1.226
+Outdoor Cushion,Scented Candle,2687,0.786,0.715,8.157
+Greeting Card Pack,Linen Napkins,292,0.085,0.709,1.542
+Solar Lantern,Wax Melts,287,0.084,0.709,5.721
+Watering Can,Wax Melts,235,0.069,0.704,5.68
+Advent Candle,Duvet Cover,277,0.081,0.704,0.752
+Candle Holder,Outdoor Cushion,1377,0.403,0.698,6.724
+Christmas Bauble Set,Faux Plant,262,0.077,0.688,1.658
+Greeting Card Pack,Outdoor Cushion,1179,0.345,0.646,6.226
+Outdoor Cushion,Wrapping Kit,364,0.106,0.645,1.105
+Advent Candle,Outdoor Cushion,2285,0.668,0.644,6.201
+Advent Candle,Garden Gloves,2526,0.739,0.642,6.856
+Advent Candle,Plant Pot,1627,0.476,0.639,4.416
+Advent Candle,Watering Can,284,0.083,0.637,0.771
+Gift Set,Outdoor Cushion,420,0.123,0.636,6.13
+Christmas Bauble Set,Garden Gloves,1057,0.309,0.627,6.688
+Garden Gloves,Greeting Card Pack,1265,0.37,0.626,3.467
+Garden Gloves,Gift Set,455,0.133,0.622,1.247
+Greeting Card Pack,Plant Pot,814,0.238,0.622,4.298
+Gift Set,Plant Pot,294,0.086,0.621,4.291
+Christmas Bauble Set,Plant Pot,676,0.198,0.619,4.277
+Faux Plant,Greeting Card Pack,282,0.082,0.618,3.421
+Advent Candle,Solar Lantern,326,0.095,0.603,0.885
+Christmas Bauble Set,Outdoor Cushion,907,0.265,0.596,5.739
+Garden Gloves,Wrapping Kit,368,0.108,0.589,1.009

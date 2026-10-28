@@ -1,0 +1,99 @@
+city,la_code,la_name,population,gva_estimated
+London,E09000007,Camden,216658,False
+London,E09000001,City of London,15631,False
+London,E09000012,Hackney,266241,False
+London,E09000013,Hammersmith and Fulham,190216,False
+London,E09000014,Haringey,266218,False
+London,E09000019,Islington,224551,False
+London,E09000020,Kensington and Chelsea,145734,False
+London,E09000022,Lambeth,314298,False
+London,E09000023,Lewisham,301037,False
+London,E09000025,Newham,376542,False
+London,E09000028,Southwark,312366,False
+London,E09000030,Tower Hamlets,334240,False
+London,E09000032,Wandsworth,339859,False
+London,E09000033,Westminster,212367,False
+London,E09000002,Barking and Dagenham,238295,False
+London,E09000003,Barnet,408087,False
+London,E09000004,Bexley,257103,False
+London,E09000005,Brent,352201,False
+London,E09000006,Bromley,336048,False
+London,E09000008,Croydon,410085,False
+London,E09000009,Ealing,387072,False
+London,E09000010,Enfield,329400,False
+London,E09000011,Greenwich,301225,False
+London,E09000015,Harrow,272612,False
+London,E09000016,Havering,280787,False
+London,E09000017,Hillingdon,326671,False
+London,E09000018,Hounslow,299486,False
+London,E09000021,Kingston upon Thames,172761,False
+London,E09000024,Merton,218891,False
+London,E09000026,Redbridge,321829,False
+London,E09000027,Richmond upon Thames,196713,False
+London,E09000029,Sutton,213972,False
+London,E09000031,Waltham Forest,283713,False
+Birmingham,E08000025,Birmingham,1176960,False
+Birmingham,E08000026,Coventry,364766,False
+Birmingham,E08000027,Dudley,333941,False
+Birmingham,E08000028,Sandwell,352918,False
+Birmingham,E08000029,Solihull,221449,False
+Birmingham,E08000030,Walsall,295722,False
+Birmingham,E08000031,Wolverhampton,281434,False
+Manchester,E08000001,Bolton,309732,False
+Manchester,E08000002,Bury,199271,False
+Manchester,E08000003,Manchester,588256,False
+Manchester,E08000004,Oldham,251915,False
+Manchester,E08000005,Rochdale,237641,False
+Manchester,E08000006,Salford,297004,False
+Manchester,E08000007,Stockport,304879,False
+Manchester,E08000008,Tameside,240822,False
+Manchester,E08000009,Trafford,240981,False
+Manchester,E08000010,Wigan,347089,False
+Leeds,E08000032,Bradford,557758,False
+Leeds,E08000033,Calderdale,210734,False
+Leeds,E08000034,Kirklees,445832,False
+Leeds,E08000035,Leeds,840550,False
+Leeds,E08000036,Wakefield,369450,False
+Liverpool,E06000006,Halton,131912,False
+Liverpool,E08000011,Knowsley,163723,False
+Liverpool,E08000012,Liverpool,507915,False
+Liverpool,E08000014,Sefton,287583,False
+Liverpool,E08000013,St. Helens,189890,False
+Liverpool,E08000015,Wirral,329896,False
+Sheffield,E08000016,Barnsley,252784,False
+Sheffield,E08000017,Doncaster,323016,False
+Sheffield,E08000018,Rotherham,279161,False
+Sheffield,E08000019,Sheffield,579517,False
+Bristol,E06000022,Bath and North East Somerset,200898,True
+Bristol,E06000023,"Bristol, City of",495260,True
+Bristol,E06000025,South Gloucestershire,308787,True
+Glasgow,S12000045,East Dunbartonshire,109550,True
+Glasgow,S12000011,East Renfrewshire,99840,True
+Glasgow,S12000049,Glasgow City,654330,True
+Glasgow,S12000018,Inverclyde,78550,True
+Glasgow,S12000050,North Lanarkshire,343930,True
+Glasgow,S12000038,Renfrewshire,189270,True
+Glasgow,S12000029,South Lanarkshire,334330,False
+Glasgow,S12000039,West Dunbartonshire,88340,True
+Edinburgh,S12000036,City of Edinburgh,531370,False
+Edinburgh,S12000010,East Lothian,116460,False
+Edinburgh,S12000047,Fife,373990,False
+Edinburgh,S12000019,Midlothian,100390,False
+Edinburgh,S12000026,Scottish Borders,116800,False
+Edinburgh,S12000040,West Lothian,187240,False
+Cardiff,W06000013,Bridgend,146986,True
+Cardiff,W06000014,Vale of Glamorgan,135362,True
+Cardiff,W06000015,Cardiff,381516,True
+Cardiff,W06000016,Rhondda Cynon Taf,241015,True
+Cardiff,W06000024,Merthyr Tydfil,58362,True
+Cardiff,W06000018,Caerphilly,176078,True
+Cardiff,W06000019,Blaenau Gwent,67593,True
+Cardiff,W06000020,Torfaen,93973,True
+Cardiff,W06000021,Monmouthshire,95329,True
+Cardiff,W06000022,Newport,168584,True
+Belfast,N09000001,Antrim and Newtownabbey,148487,False
+Belfast,N09000003,Belfast,351927,False
+Belfast,N09000007,Lisburn and Castlereagh,152367,False
+Belfast,N09000008,Mid and East Antrim,139964,False
+Belfast,N09000010,"Newry, Mourne and Down",182884,False
+Belfast,N09000011,Ards and North Down,165407,False

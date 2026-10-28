@@ -1,0 +1,3 @@
+city,measure,value,unit,period,source,url
+Dublin,population,1597700,people,April 2026,"CSO, Population and Migration Estimates April 2026 (Dublin region)",https://www-cloud.cso.ie/en/releasesandpublications/ep/p-pme/populationandmigrationestimatesapril2026/keyfindings/
+Dublin,disposable_income_per_person,32393,EUR,2023,"CSO, County Incomes and Regional GDP 2022-2023",https://www.cso.ie/en/releasesandpublications/ep/p-cirgdp/countyincomesandregionalgdp2022-2023/disposableincomebycounty
