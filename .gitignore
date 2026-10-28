@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+__pycache__/
+data/raw/ashe/
+~$*.xlsx
+*.pbix.bak
+
+# large CSVs: use data/simulated_data.zip instead
+data/simulated/*.csv
