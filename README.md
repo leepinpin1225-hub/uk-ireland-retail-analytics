@@ -46,7 +46,7 @@ The **AI Insights** page uses Power BI's **Key Influencers** visual, which appli
 - **So what:** a targeted retention offer for Belfast customers.
 - **Note:** the transactions are simulated, so this shows the method rather than a real result.
 
-![Power BI AI insights](![Power BI AI insights](ai_insights.png.png))
+![Power BI AI insights](ai_insights.png.png)
 
 ### Python charts
 
