@@ -22,7 +22,7 @@ The project combines the **latest official statistics** (ONS, CSO, US Census Bur
 
 ### Power BI report
 
-Four pages built on the SQL Server star schema: **Overview** (KPIs, monthly revenue by channel, store league table), **Cities vs market** (market capture index against official spending power), **Customers** (RFM segments, cohort retention, product bundles) and **Markets** (UK, US and Taiwan online share). PDF: [`powerbi/Hearthline_Retail.pdf`](powerbi/Hearthline_Retail.pdf).
+Five pages built on the SQL Server star schema: **Overview** (KPIs, monthly revenue by channel, store league table), **Cities vs market** (market capture index against official spending power), **Customers** (RFM segments, cohort retention, product bundles), **Markets** (UK, US and Taiwan online share) and **AI Insights** (machine-learning drivers of customer churn risk). PDF: [`powerbi/Hearthline_Retail.pdf`](powerbi/Hearthline_Retail.pdf).
 
 ![Power BI overview](images/powerbi_1_overview.png)
 
@@ -35,6 +35,18 @@ Four pages built on the SQL Server star schema: **Overview** (KPIs, monthly reve
 ![Power BI markets](images/powerbi_4_markets.png)
 
 </details>
+
+### AI-assisted insights (Power BI AI visuals)
+
+The **AI Insights** page uses Power BI's **Key Influencers** visual, which applies machine learning to find what drives an outcome.
+
+- **Question:** what makes a customer more likely to be in the RFM **"At risk"** segment?
+- **Explained by:** age band, home city, loyalty membership and marketing opt-in
+- **Finding:** customers in **Belfast** were **1.14×** more likely to be At risk (average At-risk rate about 15.5%). Belfast's store over-performs on capture (2.31), so the opportunity is keeping the customers it wins.
+- **So what:** a targeted retention offer for Belfast customers.
+- **Note:** the transactions are simulated, so this shows the method rather than a real result.
+
+![Power BI AI insights](images/powerbi_5_ai_insights.png)
 
 ### Python charts
 
@@ -148,6 +160,7 @@ simulated transactions ◄── 02_generate_simulated_data (calibrated) ──�
 - **Power Query (M):** renamed queries, removed high-cardinality columns (`order_datetime`) to keep the model small, merged RFM segments into `dim_customer` (left outer join) and added a custom column with `Table.AddColumn`.
 - **DAX (18 measures, `powerbi/measures.dax`):** `CALCULATE` for channel splits, time intelligence (`SAMEPERIODLASTYEAR`, `TOTALYTD`, `DATESINPERIOD`), `RANKX` for store rank, and a market capture index using `VAR`, `ALL` and `TREATAS`.
 - **Row-level security:** a `City Manager` role on `dim_store` (`[manager_email] = USERPRINCIPALNAME()`), tested with *View as*: the Glasgow manager sees only the Glasgow store.
+- **AI visuals:** a Key Influencers visual on the AI Insights page identifies the drivers of the RFM "At risk" segment.
 
 **Excel:** `excel/Regional_Manager_Pack.xlsx`. Pick a city from a drop-down; the KPIs, category table and city facts update through `SUMIFS` and `INDEX/MATCH`.
 
